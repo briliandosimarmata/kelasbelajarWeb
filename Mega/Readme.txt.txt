@@ -1,0 +1,1 @@
+hai aku mau belajar sama kang tohid, cuma kendalanya aku agak pusing karena kang tohid ngomongnya terlalu cepat. aku jadi pusing huhu
