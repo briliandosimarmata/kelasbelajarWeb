@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <meta charset="UTF-8">
+            <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+
+            <title>About</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+<body>
+<img src="avatar.png" width="10%" style="text-align: center;">
+
+<h1> M. Ridwan Hakim </h1><h4> Marketing Communication | Public Relation | Photography Grapher </h4><br> <br>
+<h5> Harian Umum Radar Karawang | Bachelor Communication of Singaperbangsa University</h5>
+<hr>
+
+
+</body>
+</html>
