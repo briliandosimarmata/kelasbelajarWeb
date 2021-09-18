@@ -1,0 +1,58 @@
+#narasi {
+    color:rgb(255, 136, 0);
+    text-align: justify;
+    margin: 50px;
+    margin-bottom: auto;
+    margin-top: auto;
+    font-size: 15px;
+}
+#table {
+    color: rgb(20, 20, 20);
+    margin-left: 50px;
+}
+#tentang {
+    color: rgb(255, 251, 251);
+    margin-left: 50px;
+    margin-top: auto;
+}
+.tentang{
+    background-color: rgb(255, 136, 0);
+    font-size: 20px;
+}
+#socmed{
+    color: rgb(255, 251, 251);
+    margin-left: 50px;
+    margin-bottom: auto;
+    font-size: 20px;
+}
+.socmed{
+    background-color: rgb(255, 136, 0);
+}
+.media{
+    margin-left: 50px;
+}
+.label{
+    margin-left: 50px;
+}
+
+.avatar {
+    display: block;
+    margin-right: 50px;
+    margin-left: 25px;}
+#kepala {
+    background-color: rgb(255, 136, 0);
+    color: rgb(255, 251, 251);
+    width: 1180px;
+    height: 120px;
+    margin-bottom:auto;
+    font-size: 110%;}
+
+.container {
+    display: flex;}
+    
+.container__left {
+    flex-grow: 1;}
+
+.container_right{ 
+    width: 100px;
+    }
